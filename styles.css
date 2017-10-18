@@ -132,7 +132,7 @@ div.gallery {
     margin: 10px;
     border: 1px solid #ccc;
     float: left;
-    width: 380px;
+    width: 250px;
     
 }
 
@@ -142,23 +142,7 @@ div.gallery:hover {
 
 div.gallery img {
     width: 100%;
-    height: auto;
-}
-div.gallery2 {
-    margin: 10px;
-    border: 1px solid #ccc;
-    float: left;
-    height: 180px;
-    
-}
-
-div.gallery2:hover {
-    border: 1px solid #777;
-}
-
-div.gallery2 img {
-    width: auto;
-    height: 100%;
+    height:auto;
 }
 
 div.desc {
@@ -194,6 +178,22 @@ div.vid p{
   font: 15px/30px 'Roboto', sans-serif;
 }
 
+div.gallery2 {
+    margin: 10px;
+    border: 1px solid #ccc;
+    float: left;
+    height: 180px;
+    
+}
+
+div.gallery2:hover {
+    border: 1px solid #777;
+}
+
+div.gallery2 img {
+    width: auto;
+    height: 100%;
+}
 
 /*Resume*/
 #res {
