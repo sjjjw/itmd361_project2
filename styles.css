@@ -177,19 +177,8 @@ div.desc {
 #hob p{
   font: 15px/30px 'Roboto', sans-serif;
 }
-div.vid{
-  float: left;
-  height: 600px;
-  margin-left:5%;
-}
-div.vid h4{
-  font:bold 18px/30px 'Roboto', sans-serif;
-}
-div.vid p{
-  font: 15px/30px 'Roboto', sans-serif;
-}
 
-div.gallery2 {
+.gallery2 {
     margin: 10px;
     border: 1px solid #ccc;
     float: left;
@@ -197,11 +186,11 @@ div.gallery2 {
     
 }
 
-div.gallery2:hover {
+.gallery2:hover {
     border: 1px solid #777;
 }
 
-div.gallery2 img {
+.gallery2 img {
     width: auto;
     height: 100%;
 }
