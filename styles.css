@@ -73,7 +73,14 @@ table {
   background-color: #c2b1d2;
 }
 
-
+/*footer*/
+.bottom{
+  background-color:#d8c5ea;
+  text-align:right;
+  font-size:11px;
+  width:auto;
+  padding:14px 38px;
+}
 
 /*index*/
 #intro{
