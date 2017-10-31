@@ -201,6 +201,7 @@ div.desc {
 #res {
   overflow:auto;
   width:93%;
+  height:100%;
   margin-top:6px;
   margin-bottom:6px;
   margin-left:6px;
@@ -223,21 +224,27 @@ div.desc {
 #personal{
   text-align:right;
   margin-bottom:20px;
+  height:100px;
 }
 #edu{
   margin-bottom:20px;
+  height:240px;
 }
 #exp{
   margin-bottom:20px;
+  height:330px;
 }
 #skill{
   margin-bottom:20px;
+  height:90px;
 }
 #act{
   margin-bottom:20px;
+  height:90px;
 }
 #awd{
   margin-bottom:20px;
+  height:60px;
 }
 #sch{
   margin-bottom:20px;
