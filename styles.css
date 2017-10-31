@@ -193,7 +193,10 @@ div.desc {
 .gallery2 img:hover {
     border: 1px solid #777;
 }
-
+#rotation{
+  width: 180px;
+  -webkit-transform: rotate(90deg);
+}
 /*Resume*/
 #res {
   overflow:auto;
